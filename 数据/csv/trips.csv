@@ -1,0 +1,484 @@
+trip_id,teacher_id,date_start,date_end,city,city_raw,studio,studio_id,kind,title,start_time,end_time,status,poster,note
+t0001,longlong,2026-10-01,2026-10-01,西安,西安,Ti,ti-xi-an,workshop,,,,scheduled,,
+t0002,longlong,2026-10-02,2026-10-02,天水,天水,gnrtdance,gnrtdance,workshop,,,,scheduled,,
+t0003,longlong,2026-10-03,2026-10-03,成都,成都,krazyup,krazyup,workshop,,,,scheduled,,
+t0004,longlong,2026-10-04,2026-10-04,广州,广州,groovy,groovy,workshop,,,,scheduled,,
+t0005,longlong,2026-10-05,2026-10-05,杭州,杭州,UA,urbananimal,workshop,,,,scheduled,,
+t0006,longlong,2026-10-06,2026-10-06,长沙,湖南长沙,Ti,ti-chang-sha,workshop,,,,scheduled,,
+t0007,longlong,2026-10-07,2026-10-07,北京,北京,Ti,ti-bei-jing,workshop,,,,scheduled,,
+t0008,longlong,2026-10-11,2026-10-11,银川,银川,星舞街舞,星舞街舞,workshop,,,,scheduled,,
+t0009,longlong,2026-10-12,2026-10-12,北京,北京,Ti,ti-bei-jing,workshop,,,,scheduled,,
+t0010,longlong,2026-10-15,2026-10-15,成都,成都,krazyup,krazyup,workshop,,,,scheduled,,
+t0011,longlong,2026-10-16,2026-10-16,成都,成都,krazyup,krazyup,workshop,,,,scheduled,,
+t0012,longlong,2026-10-16,2026-10-16,深圳,深圳,I-stage,i-stage,workshop,,,,scheduled,,
+t0013,longlong,2026-10-17,2026-10-17,深圳,深圳,I-stage,i-stage,workshop,,,,scheduled,,
+t0014,longlong,2026-10-23,2026-10-23,杭州,杭州,m1,m1,workshop,,,,scheduled,,
+t0015,longlong,2026-10-24,2026-10-24,杭州,杭州,m1,m1,workshop,,,,scheduled,,
+t0016,longlong,2026-10-25,2026-10-25,成都,成都,krazyup,krazyup,workshop,,,,scheduled,,
+t0017,longlong,2026-10-26,2026-10-26,北京,北京,Ti,ti-bei-jing,workshop,,,,scheduled,,
+t0018,longlong,2026-10-29,2026-10-29,厦门,厦门,YGTOO,ygtoo,workshop,,,,scheduled,,
+t0019,longlong,2026-10-31,2026-10-31,吉林,吉林,Restart,restart,workshop,,,,scheduled,,城市名待确认（疑似省名）
+t0020,longlong,2026-11-01,2026-11-01,大连,大连,X-stage,x-stage,workshop,,,,scheduled,,
+t0021,longlong,2026-11-02,2026-11-02,沈阳,沈阳,每人娱,每人娱,workshop,,,,scheduled,,
+t0022,longlong,2026-11-03,2026-11-03,沈阳,沈阳,每人娱,每人娱,workshop,,,,scheduled,,
+t0023,longlong,2026-11-08,2026-11-08,上海,上海,maxpower,mp,workshop,,,,scheduled,,
+t0024,longlong,2026-11-09,2026-11-09,南京,南京,DT,dt,workshop,,,,scheduled,,
+t0025,longlong,2026-11-12,2026-11-12,郑州,郑州,元气,yuanqi,workshop,,,,scheduled,,
+t0026,longlong,2026-11-14,2026-11-14,秦皇岛,秦皇岛,freedance,freedance,workshop,,,,scheduled,,
+t0027,longlong,2026-11-15,2026-11-15,长沙,长沙,Ti,ti-chang-sha,workshop,,,,scheduled,,
+t0028,longlong,2026-11-16,2026-11-16,长沙,长沙,Ti,ti-chang-sha,workshop,,,,scheduled,,
+t0029,longlong,2026-11-17,2026-11-17,长沙,长沙,Ti,ti-chang-sha,workshop,,,,scheduled,,
+t0030,longlong,2026-11-21,2026-11-21,长春,长春,CW,cw,workshop,,,,scheduled,,
+t0031,longlong,2026-11-22,2026-11-22,杭州,杭州,SMO,smo,workshop,,,,scheduled,,
+t0032,longlong,2026-11-26,2026-11-26,南通,南通,星艺,星艺,workshop,,,,scheduled,,
+t0033,longlong,2026-11-28,2026-11-28,天津,天津,JF,jf,workshop,,,,scheduled,,
+t0034,longlong,2026-11-29,2026-11-29,天津,天津,JF,jf,workshop,,,,scheduled,,
+t0035,longlong,2026-11-30,2026-11-30,洛阳,洛阳,TA-1 dance,ta-1-dance,workshop,,,,scheduled,,
+t0036,longlong,2026-12-11,2026-12-11,上海,上海,ACS,acs,workshop,,,,scheduled,,
+t0037,longlong,2026-12-12,2026-12-12,上海,上海,ACS,acs,workshop,,,,scheduled,,
+t0038,longlong,2026-12-18,2026-12-18,郑州,郑州,天赋,天赋,workshop,,,,scheduled,,
+t0039,longlong,2026-12-19,2026-12-19,杭州,杭州,旋风马达,旋风马达,workshop,,,,scheduled,,
+t0040,longlong,2026-12-20,2026-12-20,嘉兴,嘉兴,DG,dg,workshop,,,,scheduled,,
+t0041,longlong,2026-12-22,2026-12-22,天津,天津,苏苏,susu,workshop,,,,scheduled,,
+t0042,longlong,2026-12-25,2026-12-25,漳州,漳州,别注馆,fanxylab,workshop,,,,scheduled,,
+t0043,longlong,2026-12-26,2026-12-26,莆田,莆田,星禾,星禾,workshop,,,,scheduled,,
+t0044,longlong,2026-12-27,2026-12-27,广州,广州,UA,ua,workshop,,,,scheduled,,
+t0045,xiaoquan,2026-10-01,2026-10-01,深圳,深圳,Unlabel,unlabel-baoan,workshop,,,,scheduled,,一沐联合
+t0046,xiaoquan,2026-10-02,2026-10-02,东莞,东莞,Unlabel,unlabel,workshop,,,,scheduled,,一沐联合
+t0047,xiaoquan,2026-10-03,2026-10-03,上海,上海,Phoenix,phoenix,workshop,,,,scheduled,,
+t0048,xiaoquan,2026-10-04,2026-10-04,重庆,重庆,黑石,黑石社长联合,workshop,,,,scheduled,,社长联合
+t0049,xiaoquan,2026-10-05,2026-10-05,杭州,杭州,AB,ab,workshop,,,,scheduled,,社长联合
+t0050,xiaoquan,2026-10-06,2026-10-06,合肥,合肥,零度,零度,workshop,,,,scheduled,,
+t0051,xiaoquan,2026-10-07,2026-10-07,西安,西安,Ti,ti-xi-an,workshop,,,,scheduled,,
+t0052,xiaoquan,2026-10-10,2026-10-10,厦门,厦门,JRangerz,jrangerz,workshop,,,,scheduled,,
+t0053,xiaoquan,2026-10-16,2026-10-16,武汉,武汉,Level up,level-up,workshop,,,,scheduled,,
+t0054,xiaoquan,2026-10-17,2026-10-17,南京,南京,Iberi5,iberi5,workshop,,,,scheduled,,
+t0055,xiaoquan,2026-10-18,2026-10-18,镇江,镇江,艾迪街舞,艾迪街舞,workshop,,,,scheduled,,
+t0056,xiaoquan,2026-10-24,2026-10-24,长春,长春,CW,cw,workshop,,,,scheduled,,
+t0057,xiaoquan,2026-10-25,2026-10-25,南昌,南昌,AI,ai,workshop,,,,scheduled,,
+t0058,xiaoquan,2026-10-26,2026-10-26,临沂,临沂,DE,de,workshop,,,,scheduled,,
+t0059,xiaoquan,2026-10-30,2026-10-30,昆山,昆山,DN,dn,workshop,,,,scheduled,,
+t0060,xiaoquan,2026-10-31,2026-10-31,长沙,长沙,Beast,beast,workshop,,,,scheduled,,
+t0061,xiaoquan,2026-11-01,2026-11-01,广州,广州,2r Dance,2r-dance,workshop,,,,scheduled,,
+t0062,xiaoquan,2026-11-02,2026-11-02,厦门,厦门,YGTOO,ygtoo,workshop,,,,scheduled,,
+t0063,xiaoquan,2026-11-06,2026-11-06,洛阳,洛阳,乐舞秀,乐舞秀,workshop,,,,scheduled,,
+t0064,xiaoquan,2026-11-07,2026-11-07,北京,北京,G Steps,g-steps,workshop,,,,scheduled,,
+t0065,xiaoquan,2026-11-08,2026-11-08,天津,天津,W,w,workshop,,,,scheduled,,
+t0066,xiaoquan,2026-11-09,2026-11-09,郑州,郑州,天赋,天赋,workshop,,,,scheduled,,
+t0067,xiaoquan,2026-11-11,2026-11-11,珠海,珠海,8TEENBLOCK,8teenblock,workshop,,,,scheduled,,
+t0068,xiaoquan,2026-11-13,2026-11-13,泉州,泉州,FDA,fda,workshop,,,,scheduled,,
+t0069,xiaoquan,2026-11-14,2026-11-14,上海,上海,ACS,acs,workshop,,,,scheduled,,
+t0070,xiaoquan,2026-11-15,2026-11-15,上海,上海,GH5,gh5,workshop,,,,scheduled,,
+t0071,xiaoquan,2026-11-20,2026-11-20,南京,南京,DT,dt,workshop,,,,scheduled,,
+t0072,xiaoquan,2026-11-21,2026-11-21,青岛,青岛,KINGKONG,kingkong,workshop,,,,scheduled,,
+t0073,xiaoquan,2026-11-22,2026-11-22,苏州,苏州,FANS,fans-suzhou,workshop,,,,scheduled,,
+t0074,xiaoquan,2026-11-27,2026-11-27,合肥,合肥,TS,ts,workshop,,,,scheduled,,
+t0075,xiaoquan,2026-11-28,2026-11-28,九江,九江,舞佳舞,舞佳舞,workshop,,,,scheduled,,
+t0076,xiaoquan,2026-11-29,2026-11-29,重庆,重庆,LINX,linx,workshop,,,,scheduled,,
+t0077,hui,2026-07-30,2026-07-31,贵阳,贵州贵阳,哈哈街舞,哈哈街舞,workshop,,,,scheduled,,
+t0078,hui,2026-08-04,2026-08-04,徐州,徐州,YX dance,yx-dance,workshop,,,,scheduled,,
+t0079,hui,2026-08-10,2026-08-14,西安,西安,Ti,ti-xi-an,workshop,,,,scheduled,,
+t0080,hui,2026-08-18,2026-08-20,长沙,长沙,ODOG,odog,workshop,,,,scheduled,,
+t0081,hui,2026-08-20,2026-08-20,常州,常州,ING,ing,workshop,,,,scheduled,,
+t0082,hui,2026-09-10,2026-09-10,上海,上海,Lohas,lohas,workshop,,,,scheduled,,
+t0083,hui,2026-09-17,2026-09-17,苏州,苏州,FANS,fans-suzhou,workshop,,,,scheduled,,
+t0084,hui,2026-09-24,2026-09-24,深圳,深圳,RSTAR DANCE,rstar-dance,workshop,,,,scheduled,,
+t0085,hui,2026-10-06,2026-10-06,宁波慈溪,宁波慈溪,AT-Crew,at-crew,workshop,,,,scheduled,,
+t0086,hui,2026-11-07,2026-11-07,常州,常州,DSA,dsa,workshop,,,,scheduled,,
+t0087,hui,2026-11-19,2026-11-19,杭州,杭州,SMO,smo,workshop,,,,scheduled,,
+t0088,hui,2026-11-24,2026-11-24,南京,南京,FANS,fans-nanjing,workshop,,,,scheduled,,
+t0089,hui,2026-11-27,2026-11-27,沈阳,沈阳,爵醒,爵醒,workshop,,,,scheduled,,
+t0090,dragonk,2026-10-01,2026-10-01,深圳,深圳,Unlabel,unlabel-baoan,workshop,,,,scheduled,,
+t0091,dragonk,2026-10-01,2026-10-01,天津,天津,炽,炽,workshop,,,,scheduled,,
+t0092,dragonk,2026-10-02,2026-10-02,天津,天津,炽,炽,workshop,,,,scheduled,,
+t0093,dragonk,2026-10-04,2026-10-04,贵阳,贵阳,极目,极目,workshop,,,,scheduled,,
+t0094,dragonk,2026-11-13,2026-11-13,无锡,无锡,璇子团,璇子团联合,workshop,,,,scheduled,,联合开课（原贴未写联合方）
+t0095,dragonk,2026-11-22,2026-11-22,上海,上海,starsea,starsea,workshop,,,,scheduled,,
+t0096,dragonk,2026-12-04,2026-12-04,重庆,重庆,LINX,linx,workshop,,,,scheduled,,
+t0097,dragonk,2026-12-05,2026-12-05,成都,成都,hello dance,hello-dance,workshop,,,,scheduled,,
+t0098,dragonk,2026-12-08,2026-12-08,福州,福州,niuup,niuup,workshop,,,,scheduled,,
+t0099,dragonk,2026-12-13,2026-12-13,镇江,江苏,艾迪,艾迪,workshop,,,,scheduled,,城市名待确认（疑似省名）；城市由「江苏」改为镇江（2026-11-04 核对）
+t0100,dragonk,2026-12-18,2026-12-18,北京,北京,APE,ape,workshop,,,,scheduled,,
+t0101,fangyonglin,2026-08-08,2026-08-08,重庆,重庆,fog,fog,workshop,,,,scheduled,,
+t0102,fangyonglin,2026-08-15,2026-08-15,南宁,南宁,amazing街舞,amazing-jiewu,workshop,,,,scheduled,,
+t0103,fangyonglin,2026-08-21,2026-08-21,杭州,杭州,AB,ab,workshop,,,,scheduled,,
+t0104,fangyonglin,2026-08-28,2026-08-28,长沙,长沙,nowhite,nowhite,workshop,,,,scheduled,,
+t0105,fangyonglin,2026-10-06,2026-10-06,广州,广州,groovy,groovy,workshop,,,,scheduled,,
+t0106,fangyonglin,2026-10-17,2026-10-17,南通,南通,yel dance,yel-dance,workshop,,,,scheduled,,
+t0107,lizijian,2026-10-12,2026-10-12,南京,南京,FANS,fans-nanjing,workshop,,,,scheduled,,
+t0108,lizijian,2026-10-19,2026-10-19,南京,南京,Iberi5,iberi5,workshop,,,,scheduled,,布布联合
+t0109,lizijian,2026-10-26,2026-10-26,南京,,Dday,dday,workshop,,,,scheduled,,原贴未写城市；城市按 Dday 档案回填（南京）；特邀课（用户 2026-11-14 确认为飞行课）
+t0110,honghong,2026-10-01,2026-10-01,镇江,江苏镇江,JCDANCE,jcdance,workshop,,,,scheduled,,原贴写作「江苏镇江」
+t0111,honghong,2026-10-02,2026-10-02,成都,成都,Magixx,magixx,workshop,,,,scheduled,,
+t0112,honghong,2026-10-03,2026-10-03,杭州,杭州,Six Dance,six-dance,workshop,,,,scheduled,,
+t0113,honghong,2026-10-05,2026-10-05,临沂,临沂,森佐舞蹈工作室,s4dad4d,workshop,,,,scheduled,,
+t0114,honghong,2026-10-06,2026-10-06,北京,北京,Ti,ti-bei-jing,regular,,,,scheduled,,总店
+t0115,honghong,2026-10-07,2026-10-07,北京,北京,YLY DANCE,yly-dance,workshop,,,,scheduled,,
+t0116,honghong,2026-10-08,2026-10-08,,—,WOD,wod,workshop,,,,scheduled,,[拍摄] 拍摄课程包（WOD 世界舞蹈大赛）；不是特邀课；城市未知
+t0117,honghong,2026-10-09,2026-10-09,北京,北京,Ti,ti-bei-jing,regular,,,,scheduled,,[艺考] 艺考；总店
+t0118,honghong,2026-10-10,2026-10-10,北京,北京,control,control,regular,,,,scheduled,,公开课
+t0119,honghong,2026-10-11,2026-10-11,北京,北京,Gsteps heels,g-steps,regular,,,,scheduled,,
+t0120,honghong,2026-10-12,2026-10-12,北京,北京,Ti,ti-bei-jing,workshop,,,,scheduled,,六道口
+t0121,honghong,2026-10-13,2026-10-13,北京,,Lye Heels,lye-heels,workshop,,,,scheduled,,[艺考] 艺考；原贴未写城市，城市由老师确认
+t0122,honghong,2026-10-14,2026-10-14,北京,,SSS,sss,regular,heels,,,scheduled,,原贴未写城市，城市由老师确认
+t0123,honghong,2026-10-15,2026-10-15,北京,,SSS,sss,regular,,,,scheduled,,[艺考] 艺考；原贴未写城市，城市由老师确认
+t0124,honghong,2026-10-16,2026-10-16,北京,北京,Ti,ti-bei-jing,regular,,,,scheduled,,总店
+t0126,honghong,2026-10-21,2026-10-21,北京,,SSS,sss,regular,heels,,,scheduled,,原贴未写城市，城市由老师确认
+t0127,honghong,2026-10-22,2026-10-22,北京,,SSS,sss,regular,,,,scheduled,,[艺考] 艺考；原贴未写城市，城市由老师确认
+t0128,honghong,2026-10-23,2026-10-23,北京,北京,Ti,ti-bei-jing,regular,,,,scheduled,,总店
+t0129,honghong,2026-10-24,2026-10-24,沈阳,沈阳,wake up,wake-up,workshop,,,,scheduled,,
+t0130,honghong,2026-10-25,2026-10-25,北京,北京,Gsteps heels,g-steps,regular,,,,scheduled,,北大团训；城市按舞室档案回填
+t0132,honghong,2026-11-02,2026-11-05,上海,上海,ENCOREJAZZCAMP,encorejazzcamp,workshop,,,,scheduled,,城市由老师确认
+t0133,honghong,2026-11-11,2026-11-11,郑州,郑州,元气,yuanqi,workshop,,,,scheduled,,
+t0134,honghong,2026-11-15,2026-11-15,昆明,昆明,千胜帝,s1a17b0,workshop,,,,scheduled,,
+t0135,honghong,2026-11-17,2026-11-17,东营,山东东营,CBX,cbx,workshop,,,,scheduled,,直播课；原贴写作「山东东营」
+t0136,honghong,2026-11-21,2026-11-21,大连,大连,UR舞蹈,ur,workshop,,,,scheduled,,
+t0137,honghong,2026-12-21,2026-12-28,西安,西安,Ti,ti-xi-an,workshop,,,,scheduled,,
+t0138,qianqian,2026-12-05,2026-12-05,南京,南京,DT,dt,workshop,,,,scheduled,,
+t0139,qianqian,2026-12-06,2026-12-06,宿州,宿州,FS,fs,workshop,,,,scheduled,,
+t0140,qianqian,2026-12-11,2026-12-11,天津,天津,苏苏,susu,workshop,,,,scheduled,,
+t0141,qianqian,2026-12-12,2026-12-12,上海,上海,JYD,jyd,workshop,,,,scheduled,,
+t0142,qianqian,2026-12-13,2026-12-13,宁波,宁波,ACE,ace,workshop,,,,scheduled,,
+t0143,qianqian,2026-12-18,2026-12-18,西安,西安,SUN,sun,workshop,,,,scheduled,,
+t0144,qianqian,2026-12-19,2026-12-19,武汉,武汉,TAB,tab,workshop,,,,scheduled,,
+t0145,qianqian,2026-12-20,2026-12-20,贵阳,贵阳,TAN,tan,workshop,,,,scheduled,,
+t0146,qianqian,2026-12-25,2026-12-26,北京,北京,G Steps,g-steps,workshop,,,,scheduled,,
+t0147,qianqian,2026-12-27,2026-12-27,沈阳,沈阳,爵醒,爵醒,workshop,,,,scheduled,,
+t0148,qianqian,2026-12-29,2026-12-29,成都,成都,遇见,s92fcd7,workshop,,,,scheduled,,
+t0149,layzery,2026-10-11,2026-10-11,合肥,合肥,TS,ts,workshop,,,,scheduled,,
+t0150,layzery,2026-10-12,2026-10-12,合川,合川,IN STEP,in-step,workshop,,,,scheduled,,
+t0151,layzery,2026-10-15,2026-10-15,成都,成都,maggix,maggix,workshop,,,,scheduled,,
+t0152,layzery,2026-10-17,2026-10-17,南京,南京,ACT5,act5,workshop,,,,scheduled,,
+t0153,layzery,2026-10-21,2026-10-21,上海,上海,MO,mo,workshop,,,,scheduled,,
+t0154,layzery,2026-10-25,2026-10-25,宁波,宁波,BOOM,boom,workshop,,,,scheduled,,
+t0155,layzery,2026-10-28,2026-10-28,成都,成都,maggix,maggix,workshop,,,,scheduled,,
+t0156,layzery,2026-10-31,2026-10-31,南京,南京,01,,workshop,,,,scheduled,,舞室「01」暂不收录（用户 2026-11-14 决定）；保留原贴写法
+t0157,cailing,2026-10-24,2026-10-24,上海,上海,team21,team21,workshop,,,,scheduled,,
+t0158,cailing,2026-10-26,2026-10-26,杭州,杭州,team21,team21,workshop,,,,scheduled,,
+t0159,cailing,2026-11-01,2026-11-01,大连,大连,DB,db,workshop,,,,scheduled,,
+t0160,cailing,2026-11-02,2026-11-02,上海,上海,maxpower,mp,workshop,,,,scheduled,,
+t0161,cailing,2026-11-14,2026-11-14,深圳,深圳,Rstar,rstar,workshop,,,,scheduled,,
+t0162,yebai,2026-09-11,2026-09-11,沈阳,沈阳,city dance,city-dance,workshop,,,,scheduled,,悟
+t0163,yebai,2026-09-12,2026-09-12,长春,长春,CW,cw,workshop,,,,scheduled,,
+t0164,yebai,2026-09-13,2026-09-13,武汉,武汉,UKIHEELS,ukiheels,workshop,,,,scheduled,,
+t0165,yebai,2026-09-17,2026-09-17,嘉兴,浙江嘉兴,Triple7,triple7,workshop,,,,scheduled,,原贴写作「浙江嘉兴」
+t0166,yebai,2026-09-19,2026-09-19,贵阳,贵州贵阳,沃度,s3e7547,workshop,,,,scheduled,,原贴写作「贵州贵阳」
+t0167,yebai,2026-09-20,2026-09-20,桂林,桂林,seven dance,seven-dance,workshop,,,,scheduled,,
+t0168,yebai,2026-09-23,2026-09-23,深圳,深圳,focus dance,focus-dance,workshop,,,,scheduled,,
+t0169,yebai,2026-09-24,2026-09-24,东莞,东莞,Unlabel,unlabel,workshop,,,,scheduled,,
+t0170,yebai,2026-09-26,2026-09-26,石家庄,河北石家庄,YG,yg,workshop,,,,scheduled,,原贴写作「河北石家庄」
+t0171,yebai,2026-09-27,2026-09-27,天津,天津,TA,ta,workshop,,,,scheduled,,街舞工作室
+t0172,yebai,2026-09-28,2026-09-28,成都,成都,Magixx,magixx,workshop,,,,scheduled,,
+t0173,yebai,2026-10-02,2026-10-02,深圳,深圳,kinglion,kinglion,workshop,,,,scheduled,,
+t0174,yebai,2026-10-03,2026-10-03,西安,陕西西安,DNA,dna,workshop,,,,scheduled,,原贴写作「陕西西安」
+t0175,yebai,2026-10-04,2026-10-04,天水,甘肃天水,GNRT,gnrt,workshop,,,,scheduled,,原贴写作「甘肃天水」
+t0176,yebai,2026-10-05,2026-10-05,合肥,安徽合肥,零度,零度,workshop,,,,scheduled,,原贴写作「安徽合肥」
+t0177,yebai,2026-10-06,2026-10-06,郑州,郑州,JD,jd,workshop,,,,scheduled,,
+t0178,yebai,2026-10-10,2026-10-10,常州,常州,urbandance,urbandance,workshop,,,,scheduled,,
+t0179,yebai,2026-10-11,2026-10-11,南通,南通,FTM,ftm,workshop,,,,scheduled,,舞蹈工作室
+t0180,yebai,2026-10-17,2026-10-17,漳州,福建漳州,引莲流行舞,s9c9a40,workshop,,,,scheduled,,原贴写作「福建漳州」
+t0181,yebai,2026-10-18,2026-10-18,北京,北京,groove,groove,workshop,,,,scheduled,,
+t0182,yebai,2026-10-19,2026-10-19,天津,天津,RealHeart,realheart,workshop,,,,scheduled,,
+t0183,yebai,2026-10-24,2026-10-24,广州,广州,UA,ua,workshop,,,,scheduled,,
+t0184,yebai,2026-10-25,2026-10-25,南京,南京,billions,billions,workshop,,,,scheduled,,
+t0185,yebai,2026-10-29,2026-10-29,昆明,云南昆明,YOG,yog,workshop,,,,scheduled,,原贴写作「云南昆明」
+t0186,yebai,2026-10-31,2026-10-31,永康,金华永康,BOPU STUDIO,bopu-studio,workshop,,,,scheduled,,原贴写作「金华永康」
+t0187,jiadi,2026-09-13,2026-09-13,杭州,杭州,OMQ,omq,workshop,,,,scheduled,,小金刚
+t0188,jiadi,2026-09-14,2026-09-14,上海,上海,MP,mp,workshop,,,,scheduled,,特邀集训；特邀课
+t0189,jiadi,2026-09-17,2026-09-17,成都,成都,东者舞馆,s545eec,workshop,,,,scheduled,,
+t0190,jiadi,2026-09-18,2026-09-18,厦门,厦门,E-FIVE,e-five,workshop,,,,scheduled,,
+t0191,jiadi,2026-09-19,2026-09-19,昆明,昆明,YOG,yog,workshop,,,,scheduled,,
+t0192,jiadi,2026-09-20,2026-09-20,盘锦,辽宁盘锦,Halo,halo,workshop,,,,scheduled,,原贴写作「辽宁盘锦」
+t0193,jiadi,2026-09-26,2026-09-26,营口,辽宁营口,琳琳,s434a1f,workshop,,,,scheduled,,原贴写作「辽宁营口」
+t0194,jiadi,2026-09-27,2026-09-27,大连,大连,iSOUL,isoul,workshop,,,,scheduled,,
+t0195,jiadi,2026-09-29,2026-09-29,上海,上海,Wizzy,wizzy,workshop,,,,scheduled,,[夜训] 夜训
+t0196,jiadi,2026-09-30,2026-09-30,杭州,杭州,AB,ab,workshop,,,,scheduled,,联合 Wizzy
+t0197,jiadi,2026-10-01,2026-10-01,临沂,山东临沂,DE,de,workshop,,,,scheduled,,原贴写作「山东临沂」
+t0198,jiadi,2026-10-02,2026-10-02,镇江,镇江市,JCDANCE,jcdance,workshop,,,,scheduled,,原贴写作「镇江市」
+t0199,jiadi,2026-10-03,2026-10-03,长沙,长沙,SEEU,seeu,workshop,,,,scheduled,,
+t0201,jiadi,2026-10-05,2026-10-05,郑州,郑州,元气,yuanqi,workshop,,,,scheduled,,成人
+t0202,jiadi,2026-10-06,2026-10-06,广州,广州,Spicy,spicy,workshop,,,,scheduled,,
+t0203,jiadi,2026-10-16,2026-10-16,赣州,江西赣州,1ST,1st,workshop,,,,scheduled,,厂牌；原贴写作「江西赣州」
+t0204,jiadi,2026-10-21,2026-10-21,沈阳,沈阳,爵醒,爵醒,workshop,,,,scheduled,,
+t0205,jiadi,2026-10-23,2026-10-23,上海,上海,CAN,can,workshop,,,,scheduled,,特邀；特邀课
+t0206,jiadi,2026-10-24,2026-10-24,南京,南京,IBELI5,iberi5,workshop,,,,scheduled,,啊澈联合1
+t0207,keming,2026-09-25,2026-09-25,武汉,武汉,OS,os,workshop,,,,scheduled,,
+t0208,keming,2026-09-26,2026-09-26,南京,南京,万舞,s9eff4d,workshop,,,,scheduled,,
+t0209,keming,2026-10-01,2026-10-01,郑州,郑州,元气,yuanqi,workshop,,,,scheduled,,
+t0210,keming,2026-10-03,2026-10-03,太原,太原,舞顽,se97ad6,workshop,,,,scheduled,,
+t0211,keming,2026-10-04,2026-10-04,长沙,长沙,SEEU,seeu,workshop,,,,scheduled,,
+t0212,keming,2026-10-05,2026-10-05,深圳,深圳,DX,dx,workshop,,,,scheduled,,
+t0213,keming,2026-10-06,2026-10-06,南通,南通,星艺,星艺,workshop,,,,scheduled,,
+t0214,keming,2026-10-07,2026-10-07,日照,日照,VN,vn,workshop,,,,scheduled,,维恩
+t0215,keming,2026-10-26,2026-10-26,济南,济南,69,69,workshop,,,,scheduled,,
+t0216,keming,2026-10-30,2026-10-30,温州,温州,干艺人,s87b2f7,workshop,,,,scheduled,,
+t0217,keming,2026-10-31,2026-10-31,宁波,宁波,BOOM,boom,workshop,,,,scheduled,,
+t0218,huho,2026-10-01,2026-10-01,天津,天津,JF,jf,workshop,,,,scheduled,,
+t0219,huho,2026-10-02,2026-10-02,合川,合川,kamin,kamin,workshop,,,,scheduled,,楼西联合
+t0220,huho,2026-10-04,2026-10-04,北京,北京,control,control,workshop,,,,scheduled,,
+t0221,huho,2026-10-06,2026-10-06,杭州,杭州,7p,7p,workshop,,,,scheduled,,
+t0222,huho,2026-10-07,2026-10-07,成都,成都,舞蹈家,s4f63c2,workshop,,,,scheduled,,
+t0223,huho,2026-10-10,2026-10-11,哈萨克斯坦,哈萨克斯坦,Senrgy,senrgy,workshop,,,,scheduled,,
+t0224,huho,2026-10-17,2026-10-17,南京,南京,PARTIIDANCE,partiidance,workshop,,,,scheduled,,
+t0225,huho,2026-10-23,2026-10-23,南京,南京,Dday,dday,workshop,,,,scheduled,,
+t0226,huho,2026-10-26,2026-10-28,上海,沪上,,,workshop,,,,scheduled,,原贴写作「沪上」；编舞大乱炖
+t0227,huho,2026-10-31,2026-10-31,杭州,杭州,,,workshop,,,,scheduled,,原贴舞室写作「？」
+t0229,noah,2026-10-01,2026-10-01,成都,成都,11A,11a,workshop,,,,scheduled,,
+t0230,noah,2026-10-02,2026-10-02,重庆,重庆,OG,og,workshop,,,,scheduled,,两处源冲突：原文档写重庆，早期汇总写郑州，待老师确认
+t0231,noah,2026-10-06,2026-10-06,上海,上海,OKEY,okey,workshop,,,,scheduled,,加课 15:40–16:40
+t0232,noah,2026-10-11,2026-10-11,北京,北京,Groove,groove,workshop,,,,scheduled,,
+t0233,noah,2026-10-15,2026-10-19,西安,西安,Ti,ti-xi-an,workshop,,,,scheduled,,
+t0234,panpan,2026-10-03,2026-10-03,贵阳,贵阳,极目,极目,workshop,,,,scheduled,,
+t0235,panpan,2026-10-08,2026-10-08,杭州,杭州,YME,yme,workshop,,,,scheduled,,
+t0236,panpan,2026-10-09,2026-10-09,南京,南京,FANS,fans-nanjing,workshop,,,,scheduled,,
+t0237,panpan,2026-10-16,2026-10-16,上海,上海,碧池,sa94fb1,workshop,,,,scheduled,,[夜训] 联合夜训
+t0238,panpan,2026-10-23,2026-10-23,杭州,杭州,BA,ba,workshop,,,,scheduled,,
+t0239,panpan,2026-10-30,2026-10-30,南京,南京,IBELI5,iberi5,workshop,,,,scheduled,,与朝朝联合开课
+t0240,panpan,2026-10-31,2026-10-31,北京,北京,APE,ape,workshop,,,,scheduled,,
+t0241,panpan,2026-11-05,2026-11-06,深圳,深圳,SJD,sjd,workshop,,,,scheduled,,
+t0242,panpan,2026-11-13,2026-11-13,南京,南京,FANS,fans-nanjing,workshop,,,,scheduled,,
+t0243,panpan,2026-11-15,2026-11-15,宁波,宁波,Utopia,utopia,workshop,,,,scheduled,,
+t0244,panpan,2026-11-26,2026-11-26,杭州,杭州,Callin,callin,workshop,,,,scheduled,,
+t0245,honghong,2026-11-07,2026-11-07,北京,北京,control,control,regular,,19:00,21:00,scheduled,,
+t0246,honghong,2026-11-08,2026-11-08,北京,北京,Gsteps heels,g-steps,regular,,,,scheduled,,
+t0247,honghong,2026-11-10,2026-11-10,北京,北京,Ti,ti-bei-jing,regular,,,,scheduled,,总店；heels
+t0248,honghong,2026-11-14,2026-11-14,杭州,杭州,Answer,answer,workshop,,,,scheduled,,
+t0249,honghong,2026-11-22,2026-11-22,北京,北京,民大,minda,workshop,,15:30,17:00,scheduled,,中央民族大学团训；城市按前后行程推断
+t0250,honghong,2026-11-22,2026-11-22,北京,北京,Gsteps heels,g-steps,regular,,,,scheduled,,
+t0251,honghong,2026-11-24,2026-11-24,北京,北京,Ti,ti-bei-jing,regular,,,,scheduled,,总店；heels
+t0252,honghong,2026-11-28,2026-11-28,淄博,山东淄博,QiDance 齐舞堂街舞,qidance,workshop,,,,scheduled,,原贴写作「山东淄博」
+t0253,honghong,2026-11-29,2026-11-29,郑州,郑州,元气,yuanqi,workshop,,,,scheduled,,
+t0254,honghong,2026-12-07,2026-12-07,泉州,泉州,悦动舞蹈,yuedong,workshop,,,,scheduled,,
+t0255,honghong,2026-12-12,2026-12-13,张家口,张家口,博艺舞蹈学校,boyi,workshop,,,,scheduled,,宣化区
+t0256,honghong,2026-12-16,2026-12-20,,—,Pauline,pauline,workshop,,,,scheduled,,[性质待确认] 国外老师；开课地点待确认（私信开口）
+t0257,honghong,2027-01-23,2027-01-23,重庆,重庆,hot,hot,workshop,,,,scheduled,,
+t0258,honghong,2027-01-28,2027-01-28,郑州,郑州,元气,yuanqi,workshop,,,,scheduled,,
+t0259,honghong,2027-02-02,2027-02-02,鞍山,辽宁鞍山,D&F街舞工作室,df,workshop,,,,scheduled,,原贴写作「辽宁鞍山」
+t0260,yebai,2026-11-01,2026-11-01,浦江,浙江浦江,LD舞蹈,ld-dance,workshop,,,,scheduled,,
+t0261,yebai,2026-11-07,2026-11-07,长沙,长沙,地标引力LANDMARK,dibiaoyinli,workshop,,,,scheduled,,
+t0262,yebai,2026-11-09,2026-11-09,宜昌,湖北宜昌,派森街舞,paisen,workshop,,,,scheduled,,
+t0263,yebai,2026-11-10,2026-11-10,重庆,重庆,fresh,fresh,workshop,,,,scheduled,,
+t0264,yebai,2026-11-14,2026-11-14,西安,陕西西安,AN,an-dance,workshop,,,,scheduled,,
+t0265,yebai,2026-11-15,2026-11-15,济南,济南,Vr Dance,vr-dance,workshop,,,,scheduled,,
+t0266,yebai,2026-11-16,2026-11-16,成都,成都,舞铺ICD店,wupu,workshop,,,,scheduled,,
+t0267,yebai,2026-11-20,2026-11-20,厦门,厦门,E-FIVE,e-five,workshop,,,,scheduled,,
+t0268,yebai,2026-11-21,2026-11-21,深圳,深圳,SEVEN舞室,seven-dance-studio,workshop,,,,scheduled,,
+t0269,yebai,2026-11-22,2026-11-22,南京,南京,billions,billions,workshop,,,,scheduled,,
+t0270,yebai,2026-11-23,2026-11-23,常州,常州,HOTBABY,hotbaby,workshop,,,,scheduled,,
+t0271,yebai,2026-11-28,2026-11-28,天津,天津,YOLO CLUB DANCE,yolo-club,workshop,,,,scheduled,,
+t0272,yebai,2026-11-29,2026-11-29,北京,北京,groove,groove,workshop,,,,scheduled,,
+t0273,yebai,2026-11-30,2026-11-30,太原,山西太原,无畏街舞,wuwei,workshop,,,,scheduled,,
+t0274,yebai,2026-12-03,2026-12-03,郑州,郑州,元气,yuanqi,workshop,,,,scheduled,,
+t0275,yebai,2026-12-04,2026-12-04,南京,南京,万舞舞社,s9eff4d,workshop,,,,scheduled,,
+t0276,yebai,2026-12-05,2026-12-05,蚌埠,安徽蚌埠,NEE DANCE,nee-dance,workshop,,,,scheduled,,
+t0277,yebai,2026-12-06,2026-12-06,宿州,安徽宿州,F.S街舞社,fs,workshop,,,,scheduled,,
+t0278,yebai,2026-12-09,2026-12-09,杭州,杭州,AB,ab,workshop,,,,scheduled,,与飞现联合
+t0279,yebai,2026-12-12,2026-12-12,长沙,长沙,地标引力LANDMARK,dibiaoyinli,workshop,,,,scheduled,,
+t0280,yebai,2026-12-13,2026-12-13,武汉,武汉,SUP,sup,workshop,,,,scheduled,,
+t0281,yebai,2026-12-14,2026-12-14,黄石,湖北黄石,ATM,atm,workshop,,,,scheduled,,
+t0282,yebai,2026-12-19,2026-12-19,广州,广州,1NO,1no,workshop,,,,scheduled,,
+t0283,yebai,2026-12-20,2026-12-20,福州,福建福州,CC DANCE,cc-dance,workshop,,,,scheduled,,
+t0284,yebai,2026-12-21,2026-12-21,南昌,江西南昌,Tx行星舞蹈工作室,xingxing,workshop,,,,scheduled,,与嘉娣联合
+t0285,yebai,2026-12-25,2026-12-25,赣州,江西赣州,1ST舞蹈厂牌,1st,workshop,,,,scheduled,,
+t0286,yebai,2026-12-26,2026-12-26,深圳,深圳,YE dance,ye-dance,workshop,,,,scheduled,,
+t0287,yebai,2026-12-27,2026-12-27,深圳,深圳,YE dance,ye-dance,workshop,,,,scheduled,,与飞现联合
+t0288,yebai,2026-12-28,2026-12-28,东莞,东莞,UNLABLE,unlabel,workshop,,,,scheduled,,
+t0289,yebai,2026-12-30,2026-12-30,呼和浩特,内蒙古呼和浩特,iDANCECLUB,idanceclub,workshop,,,,scheduled,,
+t0290,jiadi,2026-10-25,2026-10-25,南通,南通,CHANGE舞蹈,change,workshop,,,,scheduled,,
+t0291,jiadi,2026-10-30,2026-10-30,温州,温州,MM舞室,mm-dance,workshop,,,,scheduled,,
+t0292,jiadi,2026-11-01,2026-11-01,杭州,杭州,AB,ab,workshop,,,,scheduled,,与啊澈联合
+t0293,jiadi,2026-11-09,2026-11-09,郑州,郑州,元气,yuanqi,workshop,,,,scheduled,,
+t0294,jiadi,2026-11-10,2026-11-10,上海,上海,Double 唐镇店,double,workshop,,,,scheduled,,
+t0295,jiadi,2026-11-12,2026-11-12,安阳,河南安阳,KT DANCE,kt-dance,workshop,,,,scheduled,,
+t0296,jiadi,2026-11-13,2026-11-13,郑州,郑州,TF天赋舞团,天赋,workshop,,,,scheduled,,
+t0297,jiadi,2026-11-14,2026-11-14,盐城,盐城市,精舞门,jingwumen,workshop,,,,scheduled,,
+t0298,jiadi,2026-11-15,2026-11-15,苏州,苏州,Genehouse,genehouse,workshop,,,,scheduled,,
+t0299,jiadi,2026-11-16,2026-11-16,铜陵,铜陵,CU,cu,workshop,,,,scheduled,,
+t0300,jiadi,2026-11-19,2026-11-20,沈阳,沈阳,爵醒,爵醒,workshop,,,,scheduled,,与美羊羊联合
+t0301,jiadi,2026-11-21,2026-11-21,重庆,重庆,Chill,chill,workshop,,,,scheduled,,与牛牛联合
+t0302,jiadi,2026-11-29,2026-11-29,临沂,山东临沂,TC舞室,tc-dance,workshop,,,,scheduled,,
+t0303,jiadi,2026-12-03,2026-12-03,成都,成都,叁叁玖舞蹈,339,workshop,,,,scheduled,,
+t0304,jiadi,2026-12-04,2026-12-04,内江,内江,叁叁玖舞蹈,339,workshop,,,,scheduled,,
+t0305,jiadi,2026-12-05,2026-12-05,杭州,杭州,AB,ab,workshop,,,,scheduled,,与美羊羊联合
+t0306,jiadi,2026-12-13,2026-12-13,济南,山东济南,VrDance,vr-dance,workshop,,,,scheduled,,
+t0307,jiadi,2026-12-14,2026-12-14,葫芦岛,辽宁葫芦岛,唯舞,weiwu,workshop,,,,scheduled,,
+t0308,jiadi,2026-12-17,2026-12-17,郑州,郑州,JD,jd,workshop,,,,scheduled,,
+t0309,jiadi,2026-12-21,2026-12-21,南昌,南昌,行星舞蹈（象湖）,xingxing,workshop,,,,scheduled,,与野白联合
+t0310,jiadi,2026-12-22,2026-12-22,上海,上海,CAN舞蹈,can,workshop,,,,scheduled,,
+t0311,jiadi,2026-12-24,2026-12-24,成都,成都,舞铺,wupu,workshop,,,,scheduled,,与梦梦联合
+t0312,jiadi,2026-12-26,2026-12-26,淄博,山东淄博,FlowPace,flowpace,workshop,,,,scheduled,,
+t0313,jiadi,2026-12-27,2026-12-27,深圳,深圳,DX舞蹈,dx,workshop,,,,scheduled,,
+t0314,niuniu,2026-11-20,2026-11-20,重庆,重庆,Chill,chill,workshop,,,,scheduled,,单独场
+t0315,niuniu,2026-11-21,2026-11-21,重庆,重庆,Chill,chill,workshop,,,,scheduled,,与嘉娣联合
+t0316,hui,2026-10-31,2026-10-31,宁波慈溪,慈溪,AT crew,at-crew,workshop,,,,scheduled,,
+t0317,hui,2026-11-13,2026-11-13,深圳,深圳,RSTAR DANCE,rstar-dance,workshop,,,,scheduled,,
+t0318,hui,2026-11-14,2026-11-14,杭州,杭州,SMO,smo,workshop,,,,scheduled,,原贴写「smo少」，店名待核
+t0319,hui,2026-11-20,2026-11-20,上海,上海,,,workshop,,,,scheduled,,[夜训] swag night 夜训；活动名，舞室未写
+t0320,hui,2026-11-25,2026-11-26,长沙,长沙,ODOG,odog,workshop,,,,scheduled,,
+t0321,hui,2026-11-28,2026-11-28,宁波慈溪,慈溪,AT crew,at-crew,workshop,,,,scheduled,,
+t0322,hui,2026-12-11,2026-12-11,郑州,郑州,guest,guest,workshop,,,,scheduled,,「guest」= 盖斯特街舞 GUEST DANCE（郑州，抖音主页核实 2026-11-14）
+t0323,hui,2026-12-20,2026-12-20,南京,南京,Dday,dday,workshop,,,,scheduled,,[内训] 授课+内训
+t0324,hui,2027-01-08,2027-01-08,杭州,杭州,bld,bld,workshop,,,,scheduled,,[内训] 内训
+t0325,dragonk,2026-11-30,2026-11-30,昆山,江苏昆山,DN,dn,workshop,,,,scheduled,,
+t0326,dragonk,2026-12-11,2026-12-11,上海,上海,Niki,niki,workshop,,,,scheduled,,联合
+t0327,dragonk,2027-01-02,2027-01-02,成都,成都,11A,11a,workshop,,,,scheduled,,
+t0328,dragonk,2027-01-25,2027-01-25,重庆,重庆,黑石,黑石社长联合,workshop,,,,scheduled,,
+t0329,huho,2026-11-03,2026-11-04,长沙,长沙,Odog,odog,workshop,,,,scheduled,,
+t0330,huho,2026-11-21,2026-11-21,上海,上海,Phoenix,phoenix,workshop,,,,scheduled,,与 mark 联合；原贴写「P社」，按核对即上海 Phoenix
+t0331,huho,2026-11-25,2026-11-26,北京,北京,,,workshop,,,,scheduled,,[夜训] HUHO & vlin 夜训；舞室未写
+t0332,huho,2026-11-28,2026-11-28,南京,南京,Partllldanc,partiidance,workshop,,,,scheduled,,
+t0333,huho,2026-12-12,2026-12-12,温州,温州,nothing,nothing,workshop,,,,scheduled,,
+t0334,huho,2027-01-03,2027-01-03,杭州,杭州,m1,m1,workshop,,,,scheduled,,[集训] 元旦 camp
+t0335,huho,2027-02-13,2027-02-16,杭州,杭州,m1,m1,workshop,,,,scheduled,,[集训] swag 3.0；城市为暂定（依据同款 m1）
+t0336,huho,2027-04-16,2027-04-18,俄罗斯,俄罗斯,,,workshop,,,,scheduled,,[集训] Legendary camp
+t0337,cailing,2026-12-10,2026-12-11,郑州,郑州,guest,guest,workshop,,,,scheduled,,「guest」= 盖斯特街舞 GUEST DANCE（郑州，抖音主页核实 2026-11-14）
+t0338,cailing,2027-01-11,2027-01-11,深圳,深圳,KINGLION,kinglion,workshop,,,,scheduled,,
+t0339,joshc,2026-10-26,2026-10-30,长沙,长沙,,,workshop,,,,scheduled,,[集训] 个人风格集训
+t0340,joshc,2026-10-31,2026-10-31,长沙,长沙,,,workshop,,,,scheduled,,[其他] 「万圣舞会」表演
+t0341,joshc,2026-11-01,2026-11-01,深圳,深圳,EIGHT DANCE,eight-dance,workshop,,,,scheduled,,
+t0342,joshc,2026-11-15,2026-11-15,成都,成都,大脚,dajiao,workshop,,,,scheduled,,
+t0343,joshc,2026-11-24,2026-11-26,西安,西安,Ti,ti-xi-an,workshop,,,,scheduled,,
+t0344,joshc,2026-11-27,2026-11-27,海口,海南Ti,TI（南海城店）,ti-haikou,workshop,,19:00,22:00,scheduled,,个人风格 workshop，两节
+t0345,haoq,2026-11-07,2026-11-07,常州,常州,ING,ing,workshop,,18:30,20:30,scheduled,,Standardized Masterclass，原价 ¥286；原贴写「ING DANCE」
+t0346,haoq,2026-11-15,2026-11-20,西安,西安,TI DANCE STUDIO,ti-xi-an,workshop,,,,scheduled,,[集训] POPUP / Y26，六天
+t0347,haohao,2026-11-07,2026-11-07,深圳,深圳,潮燃VIGOR舞蹈室,chaoran,workshop,,,,scheduled,,
+t0348,haohao,2026-11-13,2026-11-14,广州,广州,1no舞蹈室,1no,workshop,,,,scheduled,,日期存疑：原图 11.13-14，签名 11.14-15
+t0349,haohao,2026-11-28,2026-11-29,广州,广州,1no舞蹈室,1no,workshop,,,,scheduled,,
+t0350,titi,2026-10-31,2026-10-31,上海,上海,MP,mp,workshop,,,,scheduled,,与 Abomb 联合
+t0351,titi,2026-11-02,2026-11-02,南京,南京,FANS,fans-nanjing,workshop,,,,scheduled,,
+t0352,titi,2026-11-03,2026-11-03,无锡,无锡,FANS,fans-wuxi,workshop,,,,scheduled,,
+t0353,titi,2026-11-10,2026-11-10,常州,常州,HOTBABY,hotbaby,workshop,,,,scheduled,,
+t0354,titi,2026-11-17,2026-11-17,苏州,苏州,,,workshop,,,,scheduled,,[内训] 内训，与 Zark 联合；场地未公开
+t0355,titi,2026-11-23,2026-11-23,马鞍山,安徽马鞍山,溯源街舞,suyuan,workshop,,,,scheduled,,
+t0356,titi,2026-11-24,2026-11-24,贵阳,贵阳,汰度,taidu,workshop,,,,scheduled,,
+t0357,titi,2026-11-26,2026-11-26,成都,成都,Magixx,magixx,workshop,,,,scheduled,,
+t0358,titi,2026-11-30,2026-11-30,嘉兴,嘉兴,Tirple7,tirple7,workshop,,,,scheduled,,
+t0359,titi,2026-12-12,2026-12-12,深圳,深圳,DLS,dls,workshop,,,,scheduled,,
+t0360,titi,2026-12-22,2026-12-22,南通,南通,FTM,ftm,workshop,,,,scheduled,,
+t0361,titi,2026-12-26,2026-12-26,常州,常州,ING,ing-cz,workshop,,,,scheduled,,
+t0362,titi,2026-12-28,2026-12-28,苏州,苏州,,,workshop,,,,scheduled,,[内训] 夜训；场地未公开；按内训归类
+t0363,titi,2027-01-01,2027-01-01,成都,成都,11A,11a,workshop,,,,scheduled,,
+t0364,titi,2027-01-12,2027-01-12,深圳,深圳,KINGLION,kinglion,workshop,,,,scheduled,,
+t0365,titi,2027-01-16,2027-01-16,宿州,安徽宿州,闪光SG,shanguang-sg,workshop,,,,scheduled,,
+t0366,titi,2027-01-19,2027-01-19,合肥,安徽合肥,INF,inf,workshop,,,,scheduled,,
+t0367,titi,2027-01-20,2027-01-20,合肥,安徽合肥,INF,inf,workshop,,,,scheduled,,与野白联合
+t0368,titi,2027-01-21,2027-01-21,天水,甘肃天水,GNRT,gnrt,workshop,,,,scheduled,,与野白联合
+t0369,titi,2027-01-22,2027-01-22,天水,甘肃天水,GNRT,gnrt,workshop,,,,scheduled,,
+t0370,titi,2027-02-15,2027-02-15,南通,南通,FTM,ftm,workshop,,,,scheduled,,与野白联合
+t0371,qiao,2026-11-08,2026-11-08,上海,上海,Arkuma,arkuma,regular,,,,scheduled,,和小白老师联合课
+t0372,qiao,2026-11-13,2026-11-13,杭州,杭州,BA 西溪天街店,ba,workshop,,,,scheduled,,Pop-up
+t0373,noah,2026-11-01,2026-11-01,深圳,深圳,SJD,sjd,workshop,,,,scheduled,,
+t0374,noah,2026-11-02,2026-11-02,深圳,深圳,ADZ,adz,workshop,,,,scheduled,,合Yelynn；舞室 ADZ（深圳，抖音主页核实 2026-11-14）
+t0375,noah,2026-11-03,2026-11-07,北京,北京,TI,ti-bei-jing,workshop,,,,scheduled,,
+t0376,noah,2026-11-08,2026-11-08,,,MADEINV,,workshop,,,,scheduled,,[性质待确认] 公演
+t0377,noah,2026-11-11,2026-11-11,南京,南京,IBELI5,iberi5,workshop,,,,scheduled,,[夜训] 夜训合朝朝；舞室 IBELI5（南京），原记上海已更正
+t0378,noah,2026-11-12,2026-11-12,上海,,RB Dance Studio,rb,workshop,,,,scheduled,,合超越
+t0379,noah,2026-11-21,2026-11-21,南京,南京,IBELI5,iberi5,workshop,,,,scheduled,,[夜训] 夜训合朝朝；舞室 IBELI5（南京）
+t0380,noah,2026-11-27,2026-11-27,南京,南京,IBELI5,iberi5,workshop,,,,scheduled,,
+t0381,noah,2026-11-28,2026-11-28,无锡,无锡,Fans,fans-wuxi,workshop,,,,scheduled,,
+t0382,zifang,2026-11-11,2026-11-11,,,理工星元素社,s95ecbb,workshop,,,,scheduled,,[性质待确认] 社课
+t0383,zifang,2026-11-25,2026-11-25,,,理工星元素社,s95ecbb,workshop,,,,scheduled,,[性质待确认] 社课
+t0384,zifang,2026-10-10,2026-10-10,杭州,杭州,UA奥体,ua-aoti,workshop,,,,scheduled,,
+t0385,zifang,2026-11-13,2026-11-13,,,浙越外,sacaa5a,workshop,,,,scheduled,,[性质待确认]
+t0386,zifang,2026-11-27,2026-11-27,杭州,杭州,UA奥体,ua-aoti,workshop,,,,scheduled,,
+t0387,zifang,2026-11-28,2026-11-29,杭州,,GOLDENBELT,goldenbelt,workshop,,,,scheduled,,爵士基础集训；舞室 GOLDENBELT（杭州，抖音主页核实 2026-11-14）
+t0388,houge,2026-11-05,2026-11-05,山东滕州,山东滕州,D-KING DANCE,,workshop,,,,scheduled,,
+t0389,houge,2026-11-07,2026-11-07,青岛,山东青岛,初舞蹈工作室,s466268,workshop,,,,scheduled,,
+t0390,houge,2026-11-08,2026-11-09,合肥,合肥,零度舞蹈,零度,workshop,,,,scheduled,,
+t0391,houge,2026-11-10,2026-11-10,常州,江苏常州,urban dance,urbandance,workshop,,,,scheduled,,
+t0392,houge,2026-11-11,2026-11-12,南京,江苏南京,RISER街舞,riser,workshop,,,,scheduled,,
+t0393,houge,2026-11-14,2026-11-14,广州,广州,1NO,1no,workshop,,,,scheduled,,
+t0394,houge,2026-11-15,2026-11-15,杭州,杭州,smo,smo,workshop,,,,scheduled,,
+t0395,houge,2026-11-17,2026-11-17,福州,福建福州,MY街舞,my,workshop,,,,scheduled,,
+t0396,houge,2026-11-21,2026-11-21,深圳,深圳宝安西乡,ONE舞蹈工作室,one,workshop,,,,scheduled,,
+t0397,houge,2026-11-22,2026-11-22,吉安,江西吉安,M方流行舞蹈学院,sfe687c,workshop,,,,scheduled,,
+t0398,houge,2026-11-28,2026-11-29,汕头,汕头,DR舞界,dr,workshop,,,,scheduled,,
+t0399,houge,2026-12-04,2026-12-04,清远,清远,9KM舞蹈工作室,9km,workshop,,,,scheduled,,
+t0400,houge,2026-12-05,2026-12-05,广州,广州,2rdance,2r-dance,workshop,,,,scheduled,,
+t0401,houge,2026-12-06,2026-12-06,无锡,江苏无锡江阴市,灵动舞蹈,s84794d,workshop,,,,scheduled,,
+t0402,houge,2026-12-12,2026-12-12,衢州,浙江衢州,莱芮娜舞蹈,sd278b3,workshop,,,,scheduled,,
+t0403,houge,2026-12-13,2026-12-13,宁波,浙江宁波,BOOM舞蹈工作室,boom,workshop,,,,scheduled,,
+t0404,houge,2026-12-18,2026-12-18,天津,天津,w街舞,w,workshop,,,,scheduled,,
+t0405,houge,2026-12-19,2026-12-19,南通,江苏南通,塔塔舞蹈,s367933,workshop,,,,scheduled,,
+t0406,houge,2026-12-20,2026-12-20,嘉兴,浙江嘉兴,Triple7,triple7,workshop,,,,scheduled,,
+t0407,houge,2026-12-25,2026-12-25,浙江金华永康,浙江金华永康,SOLO STUDIO,,workshop,,,,scheduled,,
+t0408,houge,2026-12-26,2026-12-26,广西南宁,广西南宁,ONEDANCE,,workshop,,,,scheduled,,
+t0409,houge,2026-12-27,2026-12-27,深圳,深圳宝安区桥头,T6舞蹈工作室,t6,workshop,,,,scheduled,,
+t0410,kpink,2026-10-25,2026-10-26,成都,成都,magixx,magixx,workshop,,,,scheduled,,
+t0411,kpink,2026-10-29,2026-10-29,,,meeting dance,,workshop,,,,scheduled,,[性质待确认]
+t0412,kpink,2026-12-09,2026-12-09,,,IDdance,,workshop,,,,scheduled,,[性质待确认]
+t0413,key,2026-11-16,2026-11-16,昆明,昆明,YOG舞蹈室,yog,workshop,,,,scheduled,,
+t0414,key,2026-11-17,2026-11-17,昆明,昆明,YOG舞蹈室,yog,workshop,,,,scheduled,,
+t0415,key,2026-11-26,2026-11-26,重庆,重庆,blackstone 黑石街舞,黑石社长联合,workshop,,,,scheduled,,
+t0416,key,2026-11-29,2026-11-29,深圳,深圳,Eight dance 舞蹈工作室,eight-dance,workshop,,,,scheduled,,
+t0417,key,2027-01-13,2027-01-13,重庆,重庆,fresh 菲瑞希舞蹈室,fresh,workshop,,,,scheduled,,
+t0418,feixian,2026-11-04,2026-11-04,成都,成都,magixx,magixx,workshop,,,,scheduled,,
+t0419,feixian,2026-11-05,2026-11-05,重庆,重庆,黑石,黑石社长联合,workshop,,,,scheduled,,
+t0420,feixian,2026-11-07,2026-11-07,天津,天津,w,w,workshop,,,,scheduled,,
+t0421,feixian,2026-11-08,2026-11-08,保定,保定,绯色,s8ae121,workshop,,,,scheduled,,
+t0422,feixian,2026-11-11,2026-11-11,成都,成都,magixx,magixx,workshop,,,,scheduled,,
+t0423,feixian,2026-11-13,2026-11-13,漳州,漳州,别注馆,fanxylab,workshop,,,,scheduled,,
+t0424,feixian,2026-11-14,2026-11-14,成都,成都,magixx,magixx,workshop,,,,scheduled,,
+t0425,feixian,2026-11-15,2026-11-15,南京,南京,billions,billions,workshop,,,,scheduled,,
+t0426,feixian,2026-11-18,2026-11-18,成都,成都,magixx,magixx,workshop,,,,scheduled,,
+t0427,feixian,2026-11-19,2026-11-19,重庆,重庆,黑石,黑石社长联合,workshop,,,,scheduled,,
+t0428,feixian,2026-11-21,2026-11-21,成都,成都,magixx,magixx,workshop,,,,scheduled,,
+t0429,feixian,2026-11-22,2026-11-22,常州,常州,urbandance,urbandance,workshop,,,,scheduled,,
+t0430,feixian,2026-11-23,2026-11-23,上海,上海,RB,rb,workshop,,,,scheduled,,
+t0431,feixian,2026-11-24,2026-11-24,杭州,杭州,AB,ab,workshop,,,,scheduled,,
+t0432,feixian,2026-11-25,2026-11-25,成都,成都,magixx,magixx,workshop,,,,scheduled,,
+t0433,feixian,2026-11-28,2026-11-28,海口,海南,Ti,ti-haikou,workshop,,,,scheduled,,
+t0434,feixian,2026-11-29,2026-11-29,广州,广州,1NO,1no,workshop,,,,scheduled,,
+t0435,feixian,2026-12-01,2026-12-01,郑州,郑州,元气,yuanqi,workshop,,,,scheduled,,
+t0436,feixian,2026-12-05,2026-12-05,无锡,无锡,kylin,kylin,workshop,,,,scheduled,,
+t0437,feixian,2026-12-06,2026-12-06,北京,北京,groove,groove,workshop,,,,scheduled,,
+t0438,feixian,2026-12-12,2026-12-12,济南,济南,VR,vr-dance,workshop,,,,scheduled,,
+t0439,feixian,2026-12-18,2026-12-18,昆明,云南,原质,s79f077,workshop,,,,scheduled,,
+t0440,feixian,2026-12-20,2026-12-20,广州,广州,UA,ua,workshop,,,,scheduled,,
+t0441,feixian,2026-12-26,2026-12-27,深圳,深圳,YE DANCE,ye-dance,workshop,,,,scheduled,,
+t0442,feixian,2026-12-28,2026-12-28,东莞,东莞,unable,unlabel,workshop,,,,scheduled,,「unable」= UNLABEL（东莞，用户 2026-11-14 确认）；门店未写
+t0443,chenmenghan,2026-11-17,2026-11-17,成都,成都,aeyo,aeyo,regular,,18:45,21:30,scheduled,,常规课
+t0444,chenmenghan,2026-11-18,2026-11-18,成都,成都,Prefer 泛悦店,prefer,workshop,,18:40,21:30,scheduled,,特殊课
+t0445,chenmenghan,2026-11-19,2026-11-19,成都,成都,大地节拍,s88f5fe,regular,,19:10,21:20,scheduled,,常规课
+t0446,chenmenghan,2026-11-21,2026-11-21,成都,成都,ESO,eso,workshop,,18:20,21:10,scheduled,,特殊课
+t0447,chenmenghan,2026-11-24,2026-11-24,成都,成都,aeyo,aeyo,regular,,18:45,21:30,scheduled,,常规课
+t0448,chenmenghan,2026-11-26,2026-11-26,成都,成都,大地节拍,s88f5fe,regular,,19:10,21:20,scheduled,,常规课
+t0449,chenmenghan,2026-11-27,2026-11-27,成都,成都,MAGIXX,magixx,workshop,,22:00,,scheduled,,CHOREO & FILMING CLASS（22:00-00:00）
+t0450,yangbin,2026-11-07,2026-11-08,宁波,宁波,ACE,ace,workshop,,,,scheduled,,
+t0451,yangbin,2026-11-13,2026-11-13,北京,北京,Ti,ti-bei-jing,workshop,,,,scheduled,,
+t0452,yangbin,2026-11-15,2026-11-15,滕州,山东滕州,蓝恩,sc50f41,workshop,,,,scheduled,,
+t0453,yangbin,2026-11-21,2026-11-21,厦门,厦门,Newswag,,workshop,,,,scheduled,,
+t0454,yangbin,2026-12-01,2026-12-06,西安,西安,Ti,ti-xi-an,workshop,,,,scheduled,,
+t0455,yangbin,2026-12-12,2026-12-12,宁波,宁波,Boom,boom,workshop,,,,scheduled,,
+t0456,yangbin,2026-12-27,2026-12-27,北京,北京,中央民族大学,minda,workshop,,,,scheduled,,
+t0457,yangbin,2027-01-10,2027-01-10,宁波,宁波,utopia,utopia,workshop,,,,scheduled,,
+t0459,ziwei,2026-11-15,2026-11-15,深圳,深圳,sjd,sjd,workshop,,,,scheduled,,
+t0460,ziwei,2026-11-20,2026-11-20,杭州,杭州,M1,m1,workshop,,,,scheduled,,
+t0461,ziwei,2026-11-21,2026-11-21,上海,上海,Phoenix（世纪大道店）,phoenix-shiji,workshop,,,,scheduled,,
+t0462,ziwei,2026-12-08,2026-12-08,,,零下五度（内训）,,workshop,,,,scheduled,,[内训] 内训；场地未公开；按内训归类（用户 2026-11-14）
+t0463,ziwei,2026-12-12,2026-12-12,海口,海南,Ti,ti-haikou,workshop,,,,scheduled,,
+t0464,ziwei,2026-12-19,2026-12-19,杭州,杭州,M1,m1,workshop,,,,scheduled,,
+t0465,ziwei,2026-12-24,2026-12-24,天津,天津,acehood,,workshop,,,,scheduled,,
+t0466,zhaozhao,2026-11-11,2026-11-11,南京,南京,IBELI5,iberi5,workshop,,,,scheduled,,[夜训] 与 noah 在 IBELI5 合开夜训
+t0467,zhaozhao,2026-11-21,2026-11-21,南京,南京,IBELI5,iberi5,workshop,,,,scheduled,,[夜训] 与 noah 在 IBELI5 合开夜训
+t0468,keming,2026-11-07,2026-11-07,昆明,昆明,旦斯特,sb97fbb,workshop,,,,scheduled,,2026.11 外地授课
+t0469,keming,2026-11-10,2026-11-10,郑州,郑州,元气街舞,yuanqi,workshop,,,,scheduled,,2026.11 外地授课
+t0470,keming,2026-11-27,2026-11-27,南京,南京,FANS（南京店）,fans-nanjing,workshop,,,,scheduled,,2026.11 外地授课
+t0471,keming,2026-11-28,2026-11-28,苏州,苏州,FANS（苏州店）,fans-suzhou,workshop,,,,scheduled,,2026.11 外地授课
+t0472,keming,2026-11-29,2026-11-29,杭州,杭州,UrbanAnimal 独兽街舞,urbananimal,workshop,,,,scheduled,,2026.11 外地授课
+t0473,keming,2026-12-13,2026-12-13,上海,上海,GH5,gh5,workshop,,,,scheduled,,2026.12 外地授课
+t0474,keming,2026-12-25,2026-12-25,海口,海口,Ti（海口）,ti-haikou,workshop,,,,scheduled,,2026.12 外地授课
+t0475,zhaozhao,2026-10-30,2026-10-30,南京,南京,IBELI5,iberi5,workshop,,,,scheduled,,与 PAN盘 在 IBELI5 联合开课
+t0476,lizijian,2026-11-16,2026-11-16,南京,IBELI5,IBELI5,iberi5,workshop,,,,scheduled,,课表图 11.16 Ibeli5；舞室档案 iberi5 在南京；特邀课
+t0477,lizijian,2026-11-23,2026-11-23,南京,,Dday,dday,workshop,,,,scheduled,,课表图 11.23 Dday；舞室档案已补全（南京）；特邀课
+t0478,lizijian,2026-11-30,2026-11-30,南京,FANS,FANS,fans-nanjing,workshop,,,,scheduled,,课表图 11.30 Fans 南京；特邀课
+t0479,layzery,2026-11-12,2026-11-12,长沙,长沙,初壹舞社,sbb9665,workshop,,,,scheduled,,行程视频 2026-11-11（12 月中旬之前行程）；11.12 长沙初壹舞社；特邀课
+t0480,layzery,2026-11-14,2026-11-14,成都,成都,magixx,magixx,workshop,,,,scheduled,,行程视频 2026-11-11（12 月中旬之前行程）；11.14 成都magixx；特邀课
+t0481,layzery,2026-11-18,2026-11-18,成都,成都,,,workshop,,,,scheduled,,[其他] 行程视频 2026-11-11（12 月中旬之前行程）；11.18 成都助阵泉师（助阵/演出，场地未写）
+t0482,layzery,2026-11-19,2026-11-19,上海,上海,p社,sfdf995,workshop,,,,scheduled,,行程视频 2026-11-11（12 月中旬之前行程）；11.19 上海p社；特邀课
+t0483,layzery,2026-11-21,2026-11-21,杭州,杭州,six,six-dance,workshop,,,,scheduled,,行程视频 2026-11-11（12 月中旬之前行程）；11.21 杭州six（门店未写）；特邀课
+t0484,layzery,2026-11-25,2026-11-25,成都,成都,magixx,magixx,workshop,,,,scheduled,,行程视频 2026-11-11（12 月中旬之前行程）；11.25 成都magixx；特邀课
+t0485,layzery,2026-11-28,2026-11-28,广州,广州,1no,1no,workshop,,,,scheduled,,行程视频 2026-11-11（12 月中旬之前行程）；11.28 广州1no；特邀课
+t0486,layzery,2026-12-01,2026-12-01,郑州,郑州,元气,yuanqi,workshop,,,,scheduled,,行程视频 2026-11-11（12 月中旬之前行程）；12.1 郑州元气；特邀课
+t0487,layzery,2026-12-05,2026-12-05,南昌,南昌,AI,ai,workshop,,,,scheduled,,行程视频 2026-11-11（12 月中旬之前行程）；12.5 南昌AI；特邀课
+t0488,layzery,2026-12-12,2026-12-13,北京,北京,G社,g-steps,workshop,,,,scheduled,,行程视频 2026-11-11（12 月中旬之前行程）；12.12/13 北京G社（跨两天）；特邀课

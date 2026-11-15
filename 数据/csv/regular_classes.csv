@@ -1,0 +1,158 @@
+regular_id,teacher_id,weekday,city,studio,studio_id,start_time,end_time,course,level,note,source,captured_at,month
+r0001,noah,1,杭州,AB 剧场,ab-juchang,14:20,15:25,编舞入门,,,douyin_post,2026-10-15,2026-10
+r0002,noah,1,杭州,AB 剧场,ab-juchang,15:30,16:35,编舞,,,douyin_post,2026-10-15,2026-10
+r0003,noah,1,杭州,AB 国际,ab-guoji,19:10,21:10,编舞连堂,,,douyin_post,2026-10-15,2026-10
+r0004,noah,2,上海,CAN 虹口,can-hongkou,11:55,12:55,基本功,,,douyin_post,2026-10-15,2026-10
+r0005,noah,2,上海,RB,rb,18:00,20:00,编舞,,,douyin_post,2026-10-15,2026-10
+r0006,noah,3,上海,Maxpower 苏河湾,mp-suhewan,12:00,13:00,基础,,,douyin_post,2026-10-15,2026-10
+r0007,noah,3,上海,Phoenix 长寿路,phoenix-changshou,17:10,19:10,编舞,,,douyin_post,2026-10-15,2026-10
+r0008,noah,3,上海,Phoenix 世纪大道,phoenix-shiji,20:40,21:40,编舞,,,douyin_post,2026-10-15,2026-10
+r0009,noah,4,上海,OKEY,okey,19:05,20:05,编舞,,城市据原贴「上海 OKEY 加课」确定,douyin_post,2026-10-15,2026-10
+r0010,noah,5,上海,Maxpower 苏河湾,mp-suhewan,17:00,19:00,编舞,,,douyin_post,2026-10-15,2026-10
+r0011,noah,5,上海,Lohas 杨浦,lohas,20:10,21:10,编舞,,,douyin_post,2026-10-15,2026-10
+r0012,noah,7,南京,IBELI5,iberi5,13:00,15:00,,,,douyin_post,2026-10-15,2026-10
+r0013,noah,7,杭州,AB 剧场,ab-juchang,18:10,19:15,,,,douyin_post,2026-10-15,2026-10
+r0014,panpan,1,上海,Phoenix 兆丰,phoenix-zhongshan,15:00,16:00,,提高,,douyin_post,2026-10-15,2026-10
+r0015,panpan,1,上海,Phoenix 复兴,phoenix-xintiandi,17:10,18:10,,初级,,douyin_post,2026-10-15,2026-10
+r0016,panpan,1,上海,Phoenix 复兴,phoenix-xintiandi,19:20,20:20,,提高,,douyin_post,2026-10-15,2026-10
+r0017,panpan,2,杭州,AB 剧场,ab-juchang,16:40,17:45,,初级,城市由舞室推断,douyin_post,2026-10-15,2026-10
+r0018,panpan,2,杭州,AB 剧场,ab-juchang,18:10,19:15,,提高,城市由舞室推断,douyin_post,2026-10-15,2026-10
+r0019,panpan,2,杭州,Six 凤起,six-fengqi,20:20,21:25,,提高,城市由舞室名（凤起路）推断,douyin_post,2026-10-15,2026-10
+r0020,panpan,4,杭州,Six 凤起,six-fengqi,16:40,17:45,,初级,城市由舞室名（凤起路）推断,douyin_post,2026-10-15,2026-10
+r0021,panpan,6,杭州,Mustdance,mustdance,14:00,15:20,,初级,城市 2026-10-28 经确认,douyin_post,2026-10-15,2026-10
+r0022,panpan,6,杭州,AB 国际,ab-guoji,18:10,19:15,,初级,城市由舞室推断,douyin_post,2026-10-15,2026-10
+r0023,panpan,6,杭州,AB 国际,ab-guoji,19:20,20:25,,提高,城市由舞室推断,douyin_post,2026-10-15,2026-10
+r0024,panpan,7,杭州,M1,m1,15:15,16:15,,提高,城市取自舞室档案,douyin_post,2026-10-15,2026-10
+r0025,panpan,7,杭州,Six 杭大,six-hangda,19:10,20:15,,初级,城市由舞室名（杭州大厦）推断,douyin_post,2026-10-15,2026-10
+r0026,panpan,7,杭州,Six 杭大,six-hangda,20:20,21:25,,提高,城市由舞室名（杭州大厦）推断,douyin_post,2026-10-15,2026-10
+r0027,hersey,1,杭州,UIW（诺德）,uiw,19:05,20:05,编舞进阶,,,douyin_post,2026-11-04,2026-11
+r0028,hersey,1,杭州,Renova,renova,20:40,21:40,编舞三★,,,douyin_post,2026-11-04,2026-11
+r0029,hersey,2,杭州,Six 城西,six-chengxi,16:40,17:45,编舞入门二星,,,douyin_post,2026-11-04,2026-11
+r0030,hersey,2,杭州,Six 城西,six-chengxi,18:00,19:05,编舞三★,,,douyin_post,2026-11-04,2026-11
+r0031,hersey,2,杭州,7plab,7plab,20:20,21:20,编舞,,,douyin_post,2026-11-04,2026-11
+r0032,hersey,3,杭州,Six 萧山,six-shaoshan,16:40,17:45,编舞入门二星,,,douyin_post,2026-11-04,2026-11
+r0033,hersey,3,杭州,BodySoul（滨江宝龙）,bodysoul,18:30,19:30,编舞,,,douyin_post,2026-11-04,2026-11
+r0034,hersey,3,杭州,Callin,callin,20:35,21:35,编舞,,,douyin_post,2026-11-04,2026-11
+r0035,hersey,4,嘉兴,Triple7,triple7,18:30,19:30,编舞入门,,原贴笔误「18:30-119:30」，按 19:30 处理,douyin_post,2026-11-04,2026-11
+r0036,hersey,4,嘉兴,Triple7,triple7,19:40,20:40,编舞进阶,,,douyin_post,2026-11-04,2026-11
+r0037,hersey,5,杭州,超舞（海威店）,chaowu,18:10,19:10,编舞初级,,,douyin_post,2026-11-04,2026-11
+r0038,hersey,5,杭州,超舞（海威店）,chaowu,19:20,20:20,hiphop 基本功,,,douyin_post,2026-11-04,2026-11
+r0039,hersey,6,杭州,Renova,renova,16:10,17:10,编舞二星,,,douyin_post,2026-11-04,2026-11
+r0040,hersey,6,杭州,Vibebox,vibebox,18:10,19:10,编舞入门,,,douyin_post,2026-11-04,2026-11
+r0041,hersey,6,杭州,Callin,callin,20:35,21:35,编舞一星,,,douyin_post,2026-11-04,2026-11
+r0042,hersey,7,上海,Bounce 徐汇店,bounce,14:00,15:00,编舞,,,douyin_post,2026-11-04,2026-11
+r0043,hersey,7,上海,Bounce 黄浦店,bounce,16:00,17:00,编舞,,,douyin_post,2026-11-04,2026-11
+r0044,hersey,7,上海,Okey,okey,19:10,20:10,编舞,,,douyin_post,2026-11-04,2026-11
+r0045,haoq,3,上海,RB,rb,16:55,18:25,进阶编舞,,,douyin_post,2026-11-04,2026-11
+r0046,haoq,3,上海,MP 苏河湾,mp-suhewan,19:15,20:15,基本功,,,douyin_post,2026-11-04,2026-11
+r0047,haoq,3,上海,MP 苏河湾,mp-suhewan,20:15,21:15,基础编舞,,,douyin_post,2026-11-04,2026-11
+r0048,haoq,4,上海,MP 陆家嘴,mp-lujiazui,18:05,19:05,基本功,,,douyin_post,2026-11-04,2026-11
+r0049,haoq,4,上海,MP 陆家嘴,mp-lujiazui,19:15,20:15,基础编舞,,,douyin_post,2026-11-04,2026-11
+r0051,haoq,5,杭州,EGO·F,ego,20:20,21:20,随机编舞,,,douyin_post,2026-11-04,2026-11
+r0052,haoq,6,上海,PHOENIX 长寿,phoenix-changshou,13:50,14:50,基本功,,,douyin_post,2026-11-04,2026-11
+r0053,haoq,6,上海,MP 苏河湾,mp-suhewan,15:30,17:00,进阶编舞,,,douyin_post,2026-11-04,2026-11
+r0054,haoq,6,上海,PHOENIX 世纪大道,phoenix-shiji,18:20,19:20,进阶编舞,,,douyin_post,2026-11-04,2026-11
+r0055,haoq,6,上海,LOHAS 杨浦,lohas,20:25,21:25,基础编舞,,,douyin_post,2026-11-04,2026-11
+r0056,haoq,7,上海,GSTEP 新天地,gstep,14:00,15:00,基础编舞,,,douyin_post,2026-11-04,2026-11
+r0057,haoq,7,上海,GSTEP 新天地,gstep,15:10,16:10,进阶编舞,,,douyin_post,2026-11-04,2026-11
+r0058,haoq,7,上海,PHOENIX 长寿,phoenix-changshou,17:10,18:10,进阶编舞,,,douyin_post,2026-11-04,2026-11
+r0059,haoq,7,上海,LOHAS 上影,lohas-shangying,19:00,20:00,基础编舞,,,douyin_post,2026-11-04,2026-11
+r0060,kunn,1,上海,INSPACE 南洋,inspace,20:40,21:40,,,城市由舞室推断,douyin_post,2026-11-04,2026-11
+r0061,kunn,2,上海,LOHAS 五角场,lohas-wujiaochang,19:05,20:05,,,城市由舞室推断,douyin_post,2026-11-04,2026-11
+r0062,kunn,2,上海,LOHAS 五角场,lohas-wujiaochang,20:10,21:10,,,城市由舞室推断,douyin_post,2026-11-04,2026-11
+r0063,kunn,3,上海,RB Dance,rb,14:15,15:45,,,城市由舞室推断,douyin_post,2026-11-04,2026-11
+r0064,kunn,3,上海,RB Dance,rb,20:35,22:05,,,城市由舞室推断,douyin_post,2026-11-04,2026-11
+r0065,kunn,4,上海,CAN 张江,can-zhangjiang,12:00,13:00,,,城市由舞室推断,douyin_post,2026-11-04,2026-11
+r0066,kunn,4,上海,星舞会（康桥）,xingwuhui,18:30,19:30,,,城市由舞室推断,douyin_post,2026-11-04,2026-11
+r0067,kunn,4,上海,DH 金航城,dh,20:00,21:00,,,城市由舞室推断,douyin_post,2026-11-04,2026-11
+r0068,kunn,5,上海,LOHAS 日月光,lohas-riyueguang,19:35,20:35,,,城市由舞室推断,douyin_post,2026-11-04,2026-11
+r0069,kunn,5,上海,LOHAS 日月光,lohas-riyueguang,20:40,21:40,,,城市由舞室推断,douyin_post,2026-11-04,2026-11
+r0070,kunn,6,上海,CAN 虹口,can-hongkou,15:05,16:05,,,城市由舞室推断,douyin_post,2026-11-04,2026-11
+r0071,kunn,6,上海,DZ 浦乐汇,dz,18:00,19:00,,,城市由舞室推断,douyin_post,2026-11-04,2026-11
+r0072,kunn,6,上海,DH 金航城,dh,20:00,21:00,,,城市由舞室推断,douyin_post,2026-11-04,2026-11
+r0073,kunn,7,杭州,AB Dance 东城,ab,14:20,15:25,,,「东城」是否杭州 AB 分店待确认,douyin_post,2026-11-04,2026-11
+r0074,kunn,7,杭州,AB Dance 东城,ab,15:30,16:35,,,同上,douyin_post,2026-11-04,2026-11
+r0075,kunn,7,杭州,SixDance 城西,six-chengxi,19:20,20:25,,,城市由舞室推断,douyin_post,2026-11-04,2026-11
+r0076,kunn,7,杭州,SixDance 城西,six-chengxi,20:30,21:35,,,城市由舞室推断,douyin_post,2026-11-04,2026-11
+r0077,yaya,1,杭州,SIX 城西,six-chengxi,16:40,17:45,编舞入门,,,douyin_post,2026-11-04,2026-11
+r0078,yaya,1,杭州,ACE 天目里,ace,18:30,19:30,编舞,,,douyin_post,2026-11-04,2026-11
+r0079,yaya,1,杭州,ACE 天目里,ace,19:35,20:35,编舞,,,douyin_post,2026-11-04,2026-11
+r0080,yaya,2,嘉兴,DG,dg,18:10,19:10,编舞入门,,,douyin_post,2026-11-04,2026-11
+r0081,yaya,2,嘉兴,DG,dg,19:15,20:15,,,,douyin_post,2026-11-04,2026-11
+r0082,yaya,2,嘉兴,DG,dg,20:15,21:15,编舞连堂,,,douyin_post,2026-11-04,2026-11
+r0083,yaya,3,杭州,SIX 凤起,six-fengqi,15:30,16:35,律动训练,,,douyin_post,2026-11-04,2026-11
+r0084,yaya,3,杭州,SIX 凤起,six-fengqi,16:40,17:45,编舞入门,,,douyin_post,2026-11-04,2026-11
+r0085,yaya,4,杭州,SIX 城西,six-chengxi,20:30,21:35,编舞,,下午课程待定,douyin_post,2026-11-04,2026-11
+r0086,yaya,5,杭州,AB 剧场,ab-juchang,15:30,16:35,编舞,,,douyin_post,2026-11-04,2026-11
+r0087,yaya,5,杭州,AB 学院,ab,18:10,19:15,编舞入门,,,douyin_post,2026-11-04,2026-11
+r0088,yaya,5,杭州,AB 学院,ab,19:20,20:25,编舞,,,douyin_post,2026-11-04,2026-11
+r0089,yaya,6,杭州,EGO 加州,ego,18:10,19:10,编舞,,,douyin_post,2026-11-04,2026-11
+r0090,yaya,6,杭州,Hiwink 滨江,hiwink,19:40,20:45,编舞,,,douyin_post,2026-11-04,2026-11
+r0091,yaya,7,绍兴,AB 绍兴,ab-shaoxing,16:45,17:45,编舞,,,douyin_post,2026-11-04,2026-11
+r0092,yaya,7,绍兴,AB 绍兴,ab-shaoxing,18:00,19:00,编舞入门,,,douyin_post,2026-11-04,2026-11
+r0093,yaya,7,绍兴,AB 绍兴,ab-shaoxing,20:10,21:10,律动训练,,,douyin_post,2026-11-04,2026-11
+r0094,haohao,2,杭州,SMO,smo,18:00,19:00,编舞,,12 月课表,douyin_post,2026-11-04,2026-12
+r0095,haohao,2,杭州,SMO,smo,19:10,20:10,编舞,,12 月课表,douyin_post,2026-11-04,2026-12
+r0096,haohao,4,上海,okey,okey,20:20,21:20,编舞,,12 月课表,douyin_post,2026-11-04,2026-12
+r0097,haohao,5,杭州,Six 凤起店,six-fengqi,19:20,20:25,编舞,,12 月课表,douyin_post,2026-11-04,2026-12
+r0098,haohao,5,杭州,Six 凤起店,six-fengqi,20:30,21:35,编舞,,12 月课表,douyin_post,2026-11-04,2026-12
+r0099,haohao,6,杭州,Six 城西店,six-chengxi,19:20,20:25,编舞,,12 月课表,douyin_post,2026-11-04,2026-12
+r0100,haohao,6,杭州,Six 城西店,six-chengxi,20:30,21:35,编舞,,12 月课表,douyin_post,2026-11-04,2026-12
+r0101,haohao,7,宁波,boom,boom,14:00,16:00,编舞连堂,,12 月课表,douyin_post,2026-11-04,2026-12
+r0102,haohao,7,宁波,boom,boom,17:00,19:00,编舞连堂,,12 月课表,douyin_post,2026-11-04,2026-12
+r0103,qiao,1,上海,Phoenix 长寿,phoenix-changshou,20:30,21:30,编舞,,周课,submission,2026-11-08,2026-11
+r0104,qiao,2,无锡,FANS,fans-wuxi,18:10,19:10,进阶基本功,,周课,submission,2026-11-08,2026-11
+r0105,qiao,2,无锡,FANS,fans-wuxi,19:15,20:15,编舞,,周课,submission,2026-11-08,2026-11
+r0106,qiao,3,杭州,Six 凤起,six-fengqi,19:10,20:15,编舞入门,,周课,submission,2026-11-08,2026-11
+r0107,qiao,3,杭州,Six 凤起,six-fengqi,20:20,21:25,编舞,,周课,submission,2026-11-08,2026-11
+r0108,qiao,6,上海,Phoenix 兆丰,phoenix-zhongshan,18:15,19:15,编舞,,周课,submission,2026-11-08,2026-11
+r0109,qiao,7,上海,Arkuma 天山店,arkuma,15:15,16:45,编舞,,周课,submission,2026-11-08,2026-11
+r0110,qiao,7,上海,OKEY,okey,19:10,20:10,编舞,,周课,submission,2026-11-08,2026-11
+r0111,noah,1,杭州,AB DANCE（剧场店）,ab-juchang,14:20,15:25,编舞入门,,周课,submission,2026-11-08,2026-11
+r0112,noah,1,杭州,AB DANCE（剧场店）,ab-juchang,15:30,16:35,编舞,,周课,submission,2026-11-08,2026-11
+r0113,noah,1,杭州,AB DANCE（国际店）,ab-guoji,18:10,19:15,编舞入门,,周课,submission,2026-11-08,2026-11
+r0114,noah,1,杭州,AB DANCE（国际店）,ab-guoji,19:20,20:25,编舞,,周课,submission,2026-11-08,2026-11
+r0115,noah,2,上海,Can 虹口,can-hongkou,11:55,12:55,基本功,,周课,submission,2026-11-08,2026-11
+r0116,noah,2,上海,RB Dance Studio,rb,18:00,20:00,编舞,,周课,submission,2026-11-08,2026-11
+r0117,noah,3,上海,Maxpower 苏河湾,mp-suhewan,12:00,13:00,基础,,周课,submission,2026-11-08,2026-11
+r0118,noah,3,上海,Phoenix 长寿路,phoenix-changshou,17:10,19:10,编舞连堂,,周课,submission,2026-11-08,2026-11
+r0119,noah,4,上海,Okey,okey,19:05,20:05,编舞,,周课,submission,2026-11-08,2026-11
+r0120,noah,5,上海,Maxpower 苏河湾,mp-suhewan,17:00,19:00,编舞,,周课,submission,2026-11-08,2026-11
+r0121,noah,5,上海,Lohas 杨浦,lohas,20:10,21:10,编舞,,周课,submission,2026-11-08,2026-11
+r0122,noah,6,杭州,AB DANCE（国际店）,ab-guoji,16:00,18:00,编舞连堂,,周课,submission,2026-11-08,2026-11
+r0123,noah,7,杭州,AB下沙,ab-juchang,14:20,15:25,编舞入门,,周课,submission,2026-11-08,2026-11
+r0124,noah,7,杭州,AB下沙,ab-juchang,15:30,16:35,编舞,,周课,submission,2026-11-08,2026-11
+r0125,noah,7,杭州,AB DANCE（剧场店）,ab-juchang,18:10,19:15,编舞入门,,周课,submission,2026-11-08,2026-11
+r0126,zifang,1,杭州,Must dance,mustdance,20:00,,爵士提高,,周课,submission,2026-11-08,2026-11
+r0127,zifang,2,杭州,M1,m1,19:55,,Girlstyle,,周课,submission,2026-11-08,2026-11
+r0128,zifang,3,杭州,UA星光,ua-xingguang,19:20,,爵士,,周课,submission,2026-11-08,2026-11
+r0129,zifang,5,杭州,SIX凤起,six-fengqi,19:10,,爵士提高,,周课,submission,2026-11-08,2026-11
+r0130,zifang,6,,Golden Belt,,16:00,,爵士,,常规；Golden Belt 未收录，city 待确认,submission,2026-11-08,2026-11
+r0131,zifang,6,杭州,SIX城西,six-chengxi,19:10,,高阶基本功,,周课,submission,2026-11-08,2026-11
+r0132,zifang,6,杭州,SIX城西,six-chengxi,20:20,,爵士提高,,周课,submission,2026-11-08,2026-11
+r0133,zifang,7,杭州,AB DANCE（国际店）,ab-guoji,14:20,,爵士提高,,周课,submission,2026-11-08,2026-11
+r0134,zifang,7,杭州,AB DANCE（剧场店）,ab-juchang,18:10,,爵士提高,,原文时间写作「1日:10」，无法辨认,submission,2026-11-08,2026-11
+r0135,lvzi,2,北京,G社 芳园里,gsteps-fangyuanli,19:10,,编舞,,周课（来自主页简介）,submission,2026-11-09,2026-11
+r0136,lvzi,4,北京,SS,sss,19:30,,编舞,,周课（来自主页简介）,submission,2026-11-09,2026-11
+r0137,lvzi,5,北京,G社 大峡谷,gsteps-daxiagu,19:30,,编舞,,周课（来自主页简介）,submission,2026-11-09,2026-11
+r0138,lvzi,6,北京,Ti,ti-bei-jing,19:10,,编舞,,周课（来自主页简介）,submission,2026-11-09,2026-11
+r0139,lvzi,7,北京,G社 双井,gsteps-shuangjing,12:00,,编舞,,周课（来自主页简介）,submission,2026-11-09,2026-11
+r0140,lvzi,7,北京,SS,sss,16:50,,编舞,,周课（来自主页简介）,submission,2026-11-09,2026-11
+r0141,lizijian,1,杭州,599,s599,19:15,20:15,入门,,课表图周一 19:15 入门（599）；599 = 杭州 New·599 Dance（抖音主页核实）,douyin_post,2026-11-13,2026-11
+r0142,lizijian,1,杭州,599,s599,20:20,21:20,进阶,,课表图周一 20:20 进阶（599）；599 = 杭州 New·599 Dance（抖音主页核实）,douyin_post,2026-11-13,2026-11
+r0143,lizijian,2,宁波,凹凸,aotu,18:30,20:40,连堂,,课表图周二 18:30 凹凸连堂；凹凸 = 宁波 OFFTOP 凹凸舞室（抖音主页核实）,douyin_post,2026-11-13,2026-11
+r0144,lizijian,3,杭州,AB DANCE（剧场店）,ab-juchang,16:40,17:45,入门,,课表图周三 AB剧场店,douyin_post,2026-11-13,2026-11
+r0145,lizijian,3,杭州,AB DANCE（剧场店）,ab-juchang,18:10,19:15,进阶,,课表图周三 AB剧场店,douyin_post,2026-11-13,2026-11
+r0146,lizijian,4,杭州,Renova,renova,17:25,18:25,入门,,课表图周四 Renova,douyin_post,2026-11-13,2026-11
+r0147,lizijian,4,杭州,Callin,callin,19:35,20:35,入门,,课表图周四 CALLIN,douyin_post,2026-11-13,2026-11
+r0148,lizijian,4,杭州,Callin,callin,20:35,21:35,基本功,,课表图周四 CALLIN 基本功,douyin_post,2026-11-13,2026-11
+r0149,lizijian,5,杭州,SIX DANCE（杭大店）,six-hangda,15:30,16:35,进阶,,课表图周五 six 杭大,douyin_post,2026-11-13,2026-11
+r0150,lizijian,5,杭州,SIX DANCE（杭大店）,six-hangda,16:40,17:45,入门,,课表图周五 six 杭大,douyin_post,2026-11-13,2026-11
+r0151,lizijian,5,,BXF（杭大）,bxf-hangda,18:10,19:10,入门,,课表图周五 BXF 杭大；BXF 未收录，待人工确认,douyin_post,2026-11-13,2026-11
+r0152,lizijian,5,杭州,YME,yme,20:25,21:25,入门,,课表图周五 yme 滨江,douyin_post,2026-11-13,2026-11
+r0153,lizijian,6,杭州,EGO,ego,14:55,16:55,连堂,,课表图周六 EGOF,douyin_post,2026-11-13,2026-11
+r0154,lizijian,6,杭州,M1编舞,m1,18:45,20:45,连堂,,课表图周六「ML」即 M1编舞,douyin_post,2026-11-13,2026-11
+r0155,lizijian,7,杭州,AB DANCE（国际店）,ab-guoji,14:20,15:20,入门,,课表图周日「AB 中心店」= 国际店（地址英蓝中心）,douyin_post,2026-11-13,2026-11
+r0156,lizijian,7,杭州,AB DANCE（国际店）,ab-guoji,15:30,16:30,进阶,,课表图周日「AB 中心店」= 国际店（地址英蓝中心）,douyin_post,2026-11-13,2026-11
+r0157,lizijian,7,杭州,SIX DANCE（凤起路店）,six-fengqi,19:20,20:20,入门,,课表图周日 six 风起 = 凤起路店,douyin_post,2026-11-13,2026-11
+r0158,lizijian,7,杭州,SIX DANCE（凤起路店）,six-fengqi,20:30,21:30,进阶,,课表图周日 six 风起 = 凤起路店,douyin_post,2026-11-13,2026-11
