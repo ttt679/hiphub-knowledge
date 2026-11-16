@@ -12,6 +12,7 @@
 | `regular_classes.csv` | 一条每周固定课 | `regular_id` `weekday` `studio_id` `start_time` `month` |
 | `studios.csv` | 一家舞室 / 品牌 | `studio_id` `name` `city` `brand_id` `kind` |
 | `cities.csv` | 一座城市 | `city` |
+| `studio_schedule.csv` | 舞室某月课表里的一节课 | `studio_id` `month` `weekday` `band` `course` `level` `category` `style` `teacher_name` |
 
 ## 口径
 
@@ -20,6 +21,8 @@
 - 课程类型定义见 `文章/course-types.md`
 - 城市写法已规范化，原始写法保留在 `city_raw`
 - `month` 表示这条常规课只在某月有效；空 = 不展示
+- `studio_schedule.csv` 的 `band` 是原课表图上的时段块（如 `19:20-20:25`）；`time_start/time_end` 只在原图印了时间时才有值
+- `category`：课程名含「编舞」= 编舞，其余 = 基础（我们自己的归类规则，不是行业标准）
 
 ## 隐私
 
